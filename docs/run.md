@@ -1,0 +1,2 @@
+python -m backend.run                                                                                                                                                                                          
+npm --prefix frontend run dev -- --port 5173 

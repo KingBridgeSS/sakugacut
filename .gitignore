@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+
+videos/
+audios/
+
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+runs/

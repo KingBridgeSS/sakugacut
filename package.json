@@ -1,0 +1,11 @@
+{
+  "name": "sakugacut",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "backend": "python -m backend.run",
+    "frontend": "npm --prefix frontend run dev",
+    "typecheck": "npm --prefix frontend run typecheck"
+  }
+}
